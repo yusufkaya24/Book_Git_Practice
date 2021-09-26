@@ -1,0 +1,12 @@
+
+This is the first page of chapter 1
+
+
+this is our book
+
+whole name: page1.txt
+
+Here are the steps we followed:
+1-Created a new project
+2-Created a new package
+3-Created a new text file by typing .txt as an extension
